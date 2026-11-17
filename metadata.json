@@ -1,0 +1,6 @@
+{
+  "name": "MC Assistant",
+  "description": "Personal AI assistant MC with voice wake-word response, bilingual English & Bangla support, coding & GitHub helper, device quick-actions, and live crypto market bull/bear signal analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
